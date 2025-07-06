@@ -1,5 +1,72 @@
-# 32 Verilog Mini Projects
-Implementing 32 Verilog Mini Projects.
+# Verilog-HDL-Project-Hub
+
+This repository contains a comprehensive collection of Verilog HDL implementations of fundamental and advanced digital design components. These designs include arithmetic circuits, memory elements, protocol modules, control logic, and FSMs. Ideal for VLSI students, FPGA developers, and anyone learning digital logic design.
+
+---
+
+## 📁 Project Categories
+
+### 🔢 Arithmetic Units
+- 32-bit Adder
+- Array Multiplier
+- Booth Multiplication
+- Carry Lookahead Adder
+- Carry Select Adder
+- Carry Save Adder
+- Carry Skip Adder
+- Complex Multiplier
+- Fraction Multiplier
+- Fixed Point Adder and Subtractor
+- Fixed Point Multiplier and Divider
+- High Radix Multiplier
+- Sequential Multiplier
+- Pipelined Multiplier
+- Shift and Add Binary Multiplier
+- BCD Adder
+- Floating Point IEEE 754 Addition/Subtraction
+- Floating Point IEEE 754 Multiplication
+- Floating Point IEEE 754 Division
+- Modified Booth Algorithm
+- Logarithm Implementation
+- Binary Divider (16 by 8)
+- Restoring and Non-Restoring Division
+
+### 💾 Memory & Registers
+- Dual Address RAM
+- Dual Address ROM
+- FIFO (First-In First-Out)
+- Universal Shift Register
+
+### 🔁 State Machines
+- Mealy Sequence Detector
+- Moore Sequence Detector
+- Traffic Light Controller
+
+### 🔌 Protocols
+- I2C Protocol
+- SPI Protocol
+
+### 🎮 Miscellaneous
+- Dice Game (FSM-based)
+- Barrel Shifter
+- LFSR & CFSR (Linear & Cellular Feedback Shift Registers)
+
+---
+
+## 🔧 Tools & Technologies
+- **Language**: Verilog HDL  
+- **Simulation Tools**: Icarus Verilog, ModelSim  
+- **Waveform Viewer**: GTKWave  
+- **Synthesis Tool**: Xilinx Vivado (optional)
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/ADHIL48/Verilog-HDL-Project-Hub.git
+   cd Verilog-HDL-Project-Hub
 
 [I2C and SPI Protocols](I2C%20and%20SPI%20Protocols)<br>
 [I2C Protocol](I2C%20and%20SPI%20Protocols/I2C)
