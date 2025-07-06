@@ -29,4 +29,4 @@ Hardware Design and Verification of a configurable and parametrized 50th order l
 7. **_simulink_test/ noise.wav_**: noise signal audio file for simulink
 8. **_Digital Design of FIR Filter.pdf_**: project documentation
 
-![FIR Cover1](https://user-images.githubusercontent.com/52181539/219257508-47a6d1d0-ade1-4ba6-8bde-609f671d2a25.jpg)
+![FIR Cover1](https://github.com/ADHIL48/Verilog-HDL-Project-Hub/blob/main/Digital-Design-of-FIR-Filter-Using-Verilog-HDL/Digital%20Design%20of%20FIR%20Filter.bmp)
